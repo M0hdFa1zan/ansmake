@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url("../public/Assets/44d72135d26cf838b32f4d954c221a6e.jpg");
+    backdrop-filter: blur(3px);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
